@@ -64,3 +64,8 @@ Here are your menu options:
 - Press the respective keys to select menu options.
 
 Now that you have a comprehensive guide to "Cross the Road," let's see if you can conquer this exciting journey. Best of luck!
+
+## Some example
+![alt text](image.png)
+
+![alt text](image-1.png)
