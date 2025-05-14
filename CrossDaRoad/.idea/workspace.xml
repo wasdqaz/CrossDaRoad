@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fa822dc-02ac-4228-aa61-4814fd85bb17" name="Changes" comment="Found bug: WString Unicode Incompatibility">
+      <change beforePath="$PROJECT_DIR$/cGameEngine.h" beforeDir="false" afterPath="$PROJECT_DIR$/cGameEngine.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gGameEngineCore.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/gGameEngineCore.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="splitting" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="753c8f132cd2c0a9336b02058ca5dee5a6db88a1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2X6y7fYO4BHHXr8hG6uoUfSSKBa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/Repo/CTR/CrossDaRoad",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="LCTRication-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fa822dc-02ac-4228-aa61-4814fd85bb17" name="Changes" comment="" />
+      <created>1697963658742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697963658742</updated>
+      <workItem from="1697963659709" duration="5187000" />
+    </task>
+    <task id="LOCAL-00001" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697964091620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697964091620</updated>
+    </task>
+    <task id="LOCAL-00002" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697964225193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697964225193</updated>
+    </task>
+    <task id="LOCAL-00003" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697964295286</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697964295286</updated>
+    </task>
+    <task id="LOCAL-00004" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697964421888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697964421888</updated>
+    </task>
+    <task id="LOCAL-00005" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697964427764</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697964427764</updated>
+    </task>
+    <task id="LOCAL-00006" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697964584296</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697964584296</updated>
+    </task>
+    <task id="LOCAL-00007" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697966215508</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697966215508</updated>
+    </task>
+    <task id="LOCAL-00008" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697966256124</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697966256124</updated>
+    </task>
+    <task id="LOCAL-00009" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697966780417</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697966780417</updated>
+    </task>
+    <task id="LOCAL-00010" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697966785529</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1697966785529</updated>
+    </task>
+    <task id="LOCAL-00011" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697966872459</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697966872459</updated>
+    </task>
+    <task id="LOCAL-00012" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697966915663</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697966915663</updated>
+    </task>
+    <task id="LOCAL-00013" summary="temp">
+      <option name="closed" value="true" />
+      <created>1697967079023</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697967079023</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Check point">
+      <option name="closed" value="true" />
+      <created>1697967141667</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697967141667</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Found bug: WString Unicode Incompatibility">
+      <option name="closed" value="true" />
+      <created>1697968472710</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697968472710</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="temp" />
+    <MESSAGE value="Check point" />
+    <MESSAGE value="Found bug: WString Unicode Incompatibility" />
+    <option name="LAST_COMMIT_MESSAGE" value="Found bug: WString Unicode Incompatibility" />
+  </component>
+</project>
